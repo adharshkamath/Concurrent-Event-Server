@@ -1,4 +1,4 @@
-# Concurrent-Event-Server
+# Concurrent Event Server
 A simple [event server](https://learnyousomeerlang.com/designing-a-concurrent-application) in Erlang
 
 
